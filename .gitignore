@@ -1,0 +1,15 @@
+# Byggresultat
+bin/
+obj/
+
+# Lösenordsfiler och hemliga data
+data/
+*.b64
+*.key
+*.secret
+
+# IDE
+.vs/
+.vscode/
+*.sln.user
+*.DotSettings.user
